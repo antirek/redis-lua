@@ -3,7 +3,7 @@ version = "2.0.5-0"
 
 source = {
    url = "git://github.com/antirek/redis-lua.git",
-   branch = "master"
+   branch = "version-2.0"
 }
 
 description = {
